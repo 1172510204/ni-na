@@ -10,6 +10,16 @@ public abstract class Track {
   // all the fields are private，并且是不可变的
   private final int n;
   private final int r;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   /**
    * 初始化轨道
